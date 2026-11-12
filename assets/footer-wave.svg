@@ -1,0 +1,29 @@
+<svg width="900" height="120" viewBox="0 0 900 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0" y1="0" x2="900" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="900" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes waveShift {
+      0%, 100% { transform: translateX(0px); }
+      50% { transform: translateX(-30px); }
+    }
+    .w1 { animation: waveShift 6s ease-in-out infinite; }
+    .w2 { animation: waveShift 9s ease-in-out infinite reverse; }
+  </style>
+  <g class="w2">
+    <path d="M-40 60 C 140 10, 320 100, 500 50 C 680 0, 820 90, 960 40 L 960 120 L -40 120 Z" fill="url(#waveGrad2)"/>
+  </g>
+  <g class="w1">
+    <path d="M-40 78 C 120 35, 300 110, 480 68 C 660 26, 800 98, 960 62 L 960 120 L -40 120 Z" fill="url(#waveGrad1)"/>
+  </g>
+  <text x="450" y="102" text-anchor="middle" fill="#FFFFFF" font-family="ui-monospace, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1.2">BUILT WITH PASSION BY MOMINUL ISLAM • MOM TECH BD 🇧🇩</text>
+</svg>
