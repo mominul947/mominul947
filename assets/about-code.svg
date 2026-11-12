@@ -1,0 +1,63 @@
+<svg width="520" height="390" viewBox="0 0 520 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="520" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0D1424"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="520" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes glowPulse {
+      0%, 100% { stroke-opacity: 0.45; }
+      50% { stroke-opacity: 0.95; }
+    }
+    .cursor { animation: blink 1s step-end infinite; }
+    .glow-border { animation: glowPulse 3.5s ease-in-out infinite; }
+  </style>
+
+  <!-- Code Editor Card -->
+  <rect class="glow-border" x="2" y="2" width="516" height="296" rx="16" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1.6"/>
+  <!-- Title Bar -->
+  <rect x="2" y="2" width="516" height="34" rx="16" fill="#0F172A"/>
+  <rect x="2" y="20" width="516" height="16" fill="#0F172A"/>
+  <line x1="2" y1="36" x2="518" y2="36" stroke="#1E293B" stroke-width="1"/>
+  <circle cx="22" cy="19" r="5" fill="#EF4444"/>
+  <circle cx="40" cy="19" r="5" fill="#F59E0B"/>
+  <circle cx="58" cy="19" r="5" fill="#10B981"/>
+  <text x="260" y="23" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600">mominul.architect.ts</text>
+
+  <!-- Code Lines -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">
+    <text x="20" y="62"><tspan fill="#C084FC">const </tspan><tspan fill="#38BDF8">mominul</tspan><tspan fill="#94A3B8"> = {</tspan></text>
+    <text x="36" y="84"><tspan fill="#6EE7B7">role</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#FDE68A">"Full-Stack &amp; Mobile Architect"</tspan><tspan fill="#94A3B8">,</tspan></text>
+    <text x="36" y="106"><tspan fill="#6EE7B7">company</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#FDE68A">"Mom Tech BD"</tspan><tspan fill="#94A3B8">,</tspan></text>
+    <text x="36" y="128"><tspan fill="#6EE7B7">location</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#FDE68A">"Bogura, Bangladesh 🇧🇩"</tspan><tspan fill="#94A3B8">,</tspan></text>
+    <text x="36" y="150"><tspan fill="#6EE7B7">building</tspan><tspan fill="#94A3B8">: [</tspan></text>
+    <text x="54" y="172"><tspan fill="#A7F3D0">"Carbook (5K+ Downloads • 4.7★)"</tspan><tspan fill="#94A3B8">,</tspan></text>
+    <text x="54" y="194"><tspan fill="#A7F3D0">"Repairmate Pro (5.0★ Play Store)"</tspan><tspan fill="#94A3B8">,</tspan></text>
+    <text x="54" y="216"><tspan fill="#A7F3D0">"Interactive 3D Web Platforms"</tspan></text>
+    <text x="36" y="238"><tspan fill="#94A3B8">],</tspan></text>
+    <text x="36" y="260"><tspan fill="#6EE7B7">stack</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#67E8F9">"Next.js"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#67E8F9">"TypeScript"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#67E8F9">"Flutter"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#67E8F9">"Node.js"</tspan><tspan fill="#94A3B8">]</tspan></text>
+    <text x="20" y="282"><tspan fill="#94A3B8">};</tspan></text>
+    <rect class="cursor" x="40" y="270" width="8" height="15" rx="1.5" fill="#10B981"/>
+  </g>
+
+  <!-- Quote Card Below (Sairaj style) -->
+  <rect x="2" y="310" width="516" height="78" rx="14" fill="#0B1220" stroke="#10B981" stroke-opacity="0.4" stroke-width="1.2"/>
+  <rect x="2" y="310" width="5" height="78" rx="2.5" fill="url(#borderGrad)"/>
+  <text x="22" y="336" fill="#67E8F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-style="italic">
+    "First, solve the problem. Then, write the code —
+  </text>
+  <text x="22" y="356" fill="#67E8F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-style="italic">
+    build things that scale and feel effortless."
+  </text>
+  <text x="498" y="376" text-anchor="end" fill="#94A3B8" font-family="ui-monospace, Menlo, monospace" font-size="11.5" font-weight="600">— Mominul Islam</text>
+</svg>
