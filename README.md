@@ -75,6 +75,235 @@
 
 ---
 
+### 📱 Mobile & Web App UI/UX Portfolio
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Pixel_Perfect-10B981?style=for-the-badge" alt="Pixel Perfect" />
+</p>
+
+<p align="center">
+  <em>A curated showcase of modern, production-grade Mobile Applications, SaaS Dashboards, and UI/UX design architectures built with Flutter, Next.js, and Figma.</em>
+</p>
+
+<table>
+  <!-- Row 1: AI & IoT -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🤖 StudyGenie — AI Student Assistant</h3>
+      <img src="./assets/designs/studygenie-ai-assistant.png" width="100%" alt="StudyGenie AI Assistant" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Assistant-10B981?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/3D_Mascot-8B5CF6?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> 3D robotic AI mascot, automatic lecture summarization, essay outline generator, writing tutor, and intelligent student study planner.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>☀️ Sunlytix — Smart Solar IoT Monitor</h3>
+      <img src="./assets/designs/sunlytix-solar-iot.png" width="100%" alt="Sunlytix Solar IoT App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT_Telemetry-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/3D_Isometric-06B6D4?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Real-time solar energy telemetry, 3D isometric home visualization, daily balance charts, battery charge tracking, and grid export optimization.
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: SaaS & Healthcare Dashboards -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🏥 DocTrack — Hospital & Clinical SaaS</h3>
+      <img src="./assets/designs/doctrack-healthcare-dashboard.png" width="100%" alt="DocTrack SaaS Dashboard" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Healthcare_SaaS-0284C7?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Clinical workflow management, real-time doctor appointment schedules, live patient queue monitoring, diagnostic billing, and 3D AI medical assistant.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📊 XCaliber — Global Supply Chain SaaS</h3>
+      <img src="./assets/designs/xcaliber-supply-chain-dashboard.png" width="100%" alt="XCaliber Supply Chain Dashboard" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Dark_SaaS-18181B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Analytics-F97316?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Enterprise logistics dashboard tracking on-time delivery rates, inventory turnover KPIs, low-stock predictive alerts, and multi-region warehouse distribution.
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3: On-Demand Services -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🛠️ FixGadget — Device Repair & Booking</h3>
+      <img src="./assets/designs/fixgadget-repair-booking.png" width="100%" alt="FixGadget Repair App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apple_Care-000000?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Service_Booking-2563EB?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Hardware diagnostics workflow for smartphones & smartwatches, battery/LCD replacement booking, doorstep service scheduling, and instant billing summary.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🧹 HomeCare Pro — On-Demand Services</h3>
+      <img src="./assets/designs/home-services-on-demand.png" width="100%" alt="HomeCare Pro App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/On--Demand-059669?style=flat-square" />
+        <img src="https://img.shields.io/badge/Verified_Pros-10B981?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Connects homeowners with verified cleaning, plumbing, painting, and electrical experts with upfront pricing, time slot selection, and verified reviews.
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 4: Eco-Tech & Smart Commerce -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>♻️ Greencove — Smart Eco Recycling</h3>
+      <img src="./assets/designs/greencove-eco-recycling.png" width="100%" alt="Greencove Eco App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Eco_Green-15803D?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gamification-84CC16?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Circular economy app featuring recyclable cataloging (PET/HDPE/PVC), eco-points rewards system, and doorstep recycling pickup scheduling.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📺 ElectroMart — Appliances & E-Waste Hub</h3>
+      <img src="./assets/designs/electromart-appliance-hub.png" width="100%" alt="ElectroMart Appliance Hub" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Marketplace-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/E--Waste_Pickup-6D28D9?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Smart electronics catalog with multi-tier category filtering, appliance monthly rental options, and integrated e-waste trade-in pickup valuation.
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 5: Food Delivery & Q-Commerce -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🍔 Chic Burger — Food Delivery App</h3>
+      <img src="./assets/designs/chic-burger-food-delivery.png" width="100%" alt="Chic Burger App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/3D_Food_Splash-EA580C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Instant_Checkout-F97316?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> High-impact visual food presentation, caloric breakdown, customizable toppings & drinks, dynamic cart calculation, and express order dispatch.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🍕 Pasto Pizza — Fast Food Ordering</h3>
+      <img src="./assets/designs/pasto-pizza-ordering.png" width="100%" alt="Pasto Pizza App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Interactive_Sizing-EA580C?style=flat-square" />
+        <img src="https://img.shields.io/badge/18_Min_Delivery-DC2626?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Dynamic pizza crust sizing selector (S / M / L), nutritional macronutrient display (proteins/carbs/fats), coupon discounts, and live delivery countdown.
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 6: Nightlife & VIP Social -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🎉 NightPulse — Nightlife & Events App</h3>
+      <img src="./assets/designs/nightpulse-event-booking.png" width="100%" alt="NightPulse Event App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live_Map-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Nightlife_Pass-EC4899?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Nightlife and concert discovery platform with interactive venue map pins, RSVP launch passes, events calendar, and ticket purchasing.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>💬 Lounge VIP — Dark & Gold Social Network</h3>
+      <img src="./assets/designs/lounge-social-chat.png" width="100%" alt="Lounge Social Chat App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dark_%26_Gold-D97706?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--Time_Chat-F59E0B?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Exclusive social networking UI designed with obsidian black & warm gold accents, story moments, instant messaging threads, and media feeds.
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 7: Health Tech & Logistics -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🌙 Zenith — Sleep & Bio-Telemetry Tracker</h3>
+      <img src="./assets/designs/zenith-health-sleep-tracker.png" width="100%" alt="Zenith Sleep & Mood Tracker" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bio--Telemetry-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Circadian_Rhythm-06B6D4?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Circadian sleep stage tracking (Light, Deep, Awake), daily Freud mood scores, resting heart rate analytics, and work-life balance insights.
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📦 Apex Logistics — Mobile Warehouse Inventory</h3>
+      <img src="./assets/designs/warehouse-inventory-logistics.png" width="100%" alt="Apex Logistics Inventory App" />
+      <br/><br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Warehouse_AI-84CC16?style=flat-square" />
+        <img src="https://img.shields.io/badge/KPI_Tracking-22C55E?style=flat-square" />
+      </p>
+      <p align="left">
+        <b>Features:</b> Mobile fulfillment & warehouse management showing incoming stock, monthly sales target progress, inventory distribution rings, and load capacity.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack & Architecture
 
 <div align="center">
